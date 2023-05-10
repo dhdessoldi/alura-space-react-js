@@ -1,4 +1,23 @@
-#  Teste técnico Pessoa Desenvolvedora Front-end Júnior
+# AluraSpace
+
+Este projeto foi desenvolvido durante curso da [alura](https://www.alura.com.br/) referente à utilização de SCSS em aplicações React com JavaScript.
+
+O projeto tem como base o desafio descrito abaixo, utilizado em testes de contratação.
+
+Para rodar a aplicação será necessário instalar:
+
+* [Visual Studio Code](https://code.visualstudio.com/) ou algum outro editor de código;
+* [Node.js](https://nodejs.org/en);
+* [Git](https://git-scm.com/downloads);
+
+Após baixar instalar os programas acime a baixar o código, abra a pasta da aplicação pelo Visual Studio Code, com ela aberta siga os seguintes passos:
+
+* Pressiona **Ctrl + '** para abrir o terminal;
+* Digite **npm install** para instalar as dependências do projeto;
+* Digite **npm start** para rodar a aplicação e abri-la em seu navegador.
+
+
+##  Teste técnico Pessoa Desenvolvedora Front-end Júnior
 
 Seja bem-vindo! Este desafio foi projetado para avaliar a capacidade técnica de candidatos às nossas vagas.  Neste repositório você encontra o enunciado do desafio para a vaga de Pessoa Desenvolvedora Front-end Júnior da [Alura Space](https://www.alura.com.br/)!
 
@@ -37,3 +56,10 @@ Para se sair bem neste desafio, elaboramos um conjunto de instruções que deve 
 
 
 Desejamos uma boa sorte à todos!
+
+### ScreenShots
+
+![image](https://github.com/dhdessoldi/alura-space-react-js/assets/110476564/093a54e6-db37-4b6f-8dd1-ca5ed036dfed)
+
+
+
